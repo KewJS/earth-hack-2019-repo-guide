@@ -18,7 +18,9 @@ Micropix-AwesomePeople
 
 ```
 
-3. Data: **Don't add any data in your repository when pushing to Github**.
+3. Data: **Don't add any data in your repository when pushing to Github** Implement/create a `.gitignore`
+https://help.github.com/en/articles/ignoring-files
+
 4. `README.md` guidelines:
    ```
    # Micropix-AwesomePeople

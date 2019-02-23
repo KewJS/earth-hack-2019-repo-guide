@@ -35,8 +35,9 @@ Micropix-AwesomePeople
    
    ## Link to your application
    ```
+5. Push your code to your repository and send the link together with your team name to `lkp` in the `earth-hack` Slack group. 
 
-Notes:
+## Notes:
 1. Git Installation: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 2. Setting up Git: https://kbroman.org/github_tutorial/pages/init.html
 3. Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet

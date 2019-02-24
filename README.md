@@ -2,6 +2,7 @@
 
 This the official repository guidelines for the Earth Hack 2019.
 
+## Repository Setup
 1. Repository Name: ThemeName-TeamName
 ```
 Micropix-AwesomePeople
@@ -33,11 +34,25 @@ https://help.github.com/en/articles/ignoring-files
    - member 2
    - member 3
    
+   ## Technologies/Software/Libraries Used
+   - Python
+   - Tensorflow
+   - MyAwesomeLibrary
+   
    ## How to run your code/app/system
    
    ## Link to your application
    ```
 5. Push your code to your repository and send the link together with your team name to `lkp` in the `earth-hack` Slack group. 
+
+## License
+The hack is governed by Creative Commons, CC BY. You can:
+- Copy
+- Adapt or Modify
+- Redistribute (Publish, Display, Publicly Perform or Communicate the Work
+- License to others
+
+We encourage open, collaborative+competitive discussions. Organizers are not liable for any claims with regards to IP from this event. Works will be posted in GitHub.
 
 ## Notes:
 1. Git Installation: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
